@@ -1,0 +1,25 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.quickSuggestions": {
+    "other": true,
+    "comment": false,
+    "strings": false
+  },
+  "editor.acceptSuggestionOnCommitCharacter": true,
+  "editor.quickSuggestionsDelay": 10,
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.tabCompletion": "off",
+  "editor.suggest.localityBonus": true,
+  "editor.suggestSelection": "recentlyUsed",
+  "editor.wordBasedSuggestions": true,
+  "editor.parameterHints.enabled": true,
+  "emmet.triggerExpansionOnTab": true,
+  // "emmet.includeLanguages": {
+  //   "javascript": "javascriptreact"
+  // },
+  "typescript.disableAutomaticTypeAcquisition": true
+}
